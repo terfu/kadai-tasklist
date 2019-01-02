@@ -1,24 +1,4 @@
-# README
+##   Tasklistを改良して更にトップページ、Signup機能、ログイン機能を追加する
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###  難しい点
+#### TasklistをMicropostのように一対多の関係に修正するか
